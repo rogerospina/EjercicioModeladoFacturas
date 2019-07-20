@@ -1,0 +1,3 @@
+﻿dbo.FacturaDetalles
+dbo.Facturas
+dbo.Productos
